@@ -1,0 +1,19 @@
+#!/bin/bash
+
+USE="[USAGE]: $0 [ruby file] [m-multiple output runs, s-single output run]"
+
+if [ $# -gt 2 ] || [ $# -eq 0 ] && [ "$file" != "*.rb" ]
+then
+	echo $USE
+elif [ "$2" == "m" ]
+then
+	chmod 755 $1
+	./$1 >> result
+elif [ "$2" == "s" ]
+then
+	chmod 755 $1
+	name=$1
+	./$1 > "result_${name%.*}"
+else
+	echo $USE
+fi

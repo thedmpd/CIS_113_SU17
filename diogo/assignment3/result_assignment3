@@ -1,0 +1,21 @@
+----Q2----
+example
+example
+----Q6----
+First array:
+0 1 2 3 4 5 6 7 8 9 10
+Second array:
+2 3 4 5 6 7 8 9 10 11 12
+----Q7----
+sisters and brothers: jane,jill,beth,frank,rob,david
+----Q8----
+Name of person is: Bob
+----Q9----
+Keys of my_hash:
+x
+Keys of my_hash2:
+hi there
+----Q10----
+Contents of my_hash2: {"hi there"=>"some value"}
+Value lookup: does 'Diogo' exist in my_hash2? false
+Value lookup: does 'some value' exist in my_hash2? true

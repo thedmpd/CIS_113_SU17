@@ -1,0 +1,8 @@
+Invoking the inherited method say_hello from an object of class ModuleClass
+Hello Programming Ruby..
+Invoking the inherited method inside one of the classes methods
+Hello Programming Ruby..
+Output of Question 1:
+This is a report method of Module M
+Output of Question 2:
+This is report method of module N
