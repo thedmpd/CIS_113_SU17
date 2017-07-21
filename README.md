@@ -1,5 +1,8 @@
 # *CIS_113_SU17* <h2>
 If you don't know how to use git, please watch a tutorial. Super simple and it will help avoid any costly errors.
+* [Microsoft](https://www.youtube.com/watch?v=Y9XZQO1n_7c)
+* [Mac](https://www.youtube.com/watch?v=LK0vMt_lEbQ)
+* [Linux](https://www.youtube.com/watch?v=SwK2dPFXhpU)
 
 ### **Rules:** <h4>
 1. Always pull before you push.
