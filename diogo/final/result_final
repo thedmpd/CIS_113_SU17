@@ -1,0 +1,85 @@
+###### Question 1 ######
+Addition: 10
+Subtraction: 0
+Multiplication: 25
+Division: 1
+
+###### Question 2 ######
+For loop: 1
+For loop: 2
+For loop: 3
+For loop: 4
+For loop: 5
+For loop: 6
+For loop: 7
+For loop: 8
+For loop: 9
+For loop: 10
+Each loop: 1
+Each loop: 2
+Each loop: 3
+Each loop: 4
+Each loop: 5
+Each loop: 6
+Each loop: 7
+Each loop: 8
+Each loop: 9
+Each loop: 10
+Upto: 1
+Upto: 2
+Upto: 3
+Upto: 4
+Upto: 5
+Upto: 6
+Upto: 7
+Upto: 8
+Upto: 9
+Upto: 10
+While loop: 1
+While loop: 2
+While loop: 3
+While loop: 4
+While loop: 5
+While loop: 6
+While loop: 7
+While loop: 8
+While loop: 9
+While loop: 10
+
+###### Question 3 ######
+true
+
+###### Question 4 ######
+Method 1: 
+33
+Method 3: 
+11
+
+###### Question 5 ######
+100 is not less than 100 nor equal to 10.0.
+10 is equal to 10.0.
+76 is less than 100.
+
+###### Question 6 ######
+Array content: 1
+Array content: 2
+Array content: 3
+Array content: 4
+Array content: 5
+Array content: 6
+Array content: 7
+Array content: 8
+Array content: 9
+Array content: 10
+Full array: 1 2 3 4 5 6 7 8 9 10.
+
+###### Question 7 ######
+'hi's length is 2
+'23231's length is 5
+'who's length is 3
+'3's length is 1
+Sorted length order of the array: 3 hi who 23231.
+
+###### Question 8 ######
+Usage of (sort): 6 2 1 1
+Usage of (sort!): 1 1 2 6
